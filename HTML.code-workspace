@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "..\\HTML"
+		},
+		{
+			"path": "..\\Nodews"
+		},
+		{
+			"path": "..\\git"
+		},
+		{
+			"path": "..\\stop watch"
+		},
+		{
+			"path": "..\\todolist"
+		},
+		{
+			"path": "..\\IMDB clone"
+		},
+		{
+			"path": "..\\clone"
+		},
+		{
+			"path": "..\\movie"
+		},
+		{
+			"path": "..\\cart"
+		},
+		{
+			"path": "..\\Music"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "news"
+	}
+}

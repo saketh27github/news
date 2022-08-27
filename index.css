@@ -1,0 +1,57 @@
+body{
+    background-image: url("https://media.timeout.com/images/105745672/750/422/image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+h1{
+    color: black;
+    font-size: 3rem;
+    padding: 10px;
+    font-family: sans-serif;
+    /* margin-top: 10px; */
+   
+    /* justify-content: center; */
+
+
+}
+
+h2{
+    color: black;
+    font-size: 3rem;
+    text-align: center;
+    /* padding: 5px; */
+}
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: red;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+#increment-btn{
+    background: darkred;
+
+}
+
+#decrease-btn{
+    background-color: blue;
+}
+#save-btn{
+    background: darkgreen;
+}
+#save-el{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: black;
+}
